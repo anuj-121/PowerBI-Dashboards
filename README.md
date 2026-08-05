@@ -8,7 +8,7 @@ Interactive Power BI dashboards demonstrating business intelligence, analytics, 
 
 ### Weather Analytics Dashboard
 
-![Weather Dashboard](assets/weather-dashboard.png)
+![Weather Dashboard](assets/wheather-dashboard.png)
 
 ---
 
