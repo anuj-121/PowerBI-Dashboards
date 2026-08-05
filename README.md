@@ -1,6 +1,18 @@
-# Power BI Dashboards
+<p align="center">
+  <img src="assets/banner.png" alt="Power BI Dashboards Banner" width="100%">
+</p>
 
-Interactive Power BI dashboards demonstrating business intelligence, analytics, and data visualization skills.
+<h1 align="center">Power BI Dashboards</h1>
+
+<p align="center">
+Interactive dashboards showcasing Business Intelligence, Data Visualization, KPI Reporting, and Data Analytics.
+</p>
+
+---
+
+## About
+
+This repository contains a collection of Power BI dashboards developed to demonstrate business intelligence, data visualization, and analytical reporting skills using real-world datasets.
 
 ---
 
@@ -8,19 +20,25 @@ Interactive Power BI dashboards demonstrating business intelligence, analytics, 
 
 ### Weather Analytics Dashboard
 
-![Weather Dashboard](assets/wheather-dashboard.png)
+<img src="assets/weather-dashboard.png" width="100%">
+
+Interactive weather analytics dashboard featuring temperature trends, rainfall analysis, humidity, wind speed, UV index, and weather distribution.
 
 ---
 
 ### Sales & Marketing Dashboard
 
-![Sales Dashboard](assets/sales-dashboard.png)
+<img src="assets/sales-dashboard.png" width="100%">
+
+Business intelligence dashboard providing market share analysis, sales performance, category insights, and year-over-year trends.
 
 ---
 
 ### HR Diversity & Inclusion Dashboard
 
-![HR Dashboard](assets/hr-dashboard.png)
+<img src="assets/hr-dashboard.png" width="100%">
+
+HR analytics dashboard focused on workforce diversity, promotions, hiring metrics, and employee turnover analysis.
 
 ---
 
@@ -30,13 +48,75 @@ Interactive Power BI dashboards demonstrating business intelligence, analytics, 
 - Data Modeling
 - Power Query
 - DAX
-- KPI Cards
+- KPI Reporting
 - Interactive Dashboards
-- Slicers & Filters
+- Data Visualization
 - Business Intelligence
 
 ---
 
-## Tools
+## Tools & Technologies
 
-Power BI • Power Query • DAX • Microsoft Excel
+| Category | Technologies |
+|----------|--------------|
+| Visualization | Power BI |
+| Data Transformation | Power Query |
+| Data Modeling | DAX |
+| Data Source | Microsoft Excel |
+| Version Control | Git, GitHub |
+
+---
+
+## Repository Contents
+
+```
+PowerBI-Dashboards/
+│
+├── assets/
+│   ├── banner.png
+│   ├── weather-dashboard.png
+│   ├── sales-dashboard.png
+│   └── hr-dashboard.png
+│
+├── Weather Analytics Dashboard.pbix
+├── Sales & Marketing Dashboard.pbix
+├── HR Diversity & Inclusion Dashboard.pbix
+│
+├── README.md
+├── LICENSE
+└── .gitignore
+```
+
+---
+
+## Getting Started
+
+1. Download the required `.pbix` file.
+2. Open it using **Power BI Desktop**.
+3. Explore the interactive reports and visualizations.
+
+---
+
+## Author
+
+**Anuj Shinde**
+
+B.Tech Computer Science & Engineering (2026)
+
+Portfolio: https://anuj-shinde.netlify.app
+
+LinkedIn: https://www.linkedin.com/in/anuj-shinde-b78378274
+
+Email: anujshinde000@gmail.com
+
+---
+
+## License
+
+This project is licensed under the MIT License.
+
+---
+
+<p align="center">
+<i>Designed for learning, portfolio demonstration, and business intelligence practice.</i>
+</p>
