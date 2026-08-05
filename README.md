@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Power BI Dashboards Banner" width="100%">
+  <img src="assets/dashboard banner.png" alt="Power BI Dashboards Banner" width="100%">
 </p>
 
 <h1 align="center">Power BI Dashboards</h1>
