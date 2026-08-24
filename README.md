@@ -26,7 +26,7 @@ This repository contains a collection of Power BI dashboards developed to demons
 
 Interactive weather analytics dashboard featuring temperature trends, rainfall analysis, humidity, wind speed, UV index, and weather distribution.
 
----
+--- 
 
 ### Sales & Marketing Dashboard
 
